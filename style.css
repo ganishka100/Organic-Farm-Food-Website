@@ -54,7 +54,7 @@
     z-index:2;
 }
 .header .navbar{
-  background:url('23_Lemon_images/images/header-bg.png');
+  background:url('header-bg.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -132,7 +132,7 @@
 /*--------- sec-1--------- */
 
 .sec-1{
-  background: url('23_Lemon_images/images/banner-slide/Banner-1.jpg');
+  background: url('Banner-1.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -245,7 +245,7 @@
 /* <!---------------- sec-3 -------------> */
 
 .sec-3{
-  background: url("23_Lemon_images/images/about/about-banner.jpg");
+  background: url("about-banner.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -357,7 +357,7 @@
   border-radius: 50%;
 }
 .sec-5 .card{
- background: url("23_Lemon_images/images/testimonial/testimonial-bg.png");
+ background: url("testimonial-bg.png");
  background-size: cover;
  background-repeat: no-repeat;
  background-position: center;
@@ -399,7 +399,7 @@
 /* -------------footer----------- */
 
 .footer{
-  background: url("23_Lemon_images/images/footer-bg/footer_bg.png");
+  background: url("footer_bg.png");
 /* padding:25px; */
   background-size: cover;
  background-repeat: no-repeat;
@@ -491,7 +491,7 @@
   font-size: 60px;
 }
 .about .sec-1{
-background: url('23_Lemon_images/images/banner-slide/Banner-1.jpg');
+background: url('Banner-1.jpg');
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
@@ -537,7 +537,7 @@ height:370px;
   font-size: 60px;
 }
 .product .sec-1{
-background: url('23_Lemon_images/images/banner-slide/Banner-1.jpg');
+background: url('Banner-1.jpg');
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
@@ -583,7 +583,7 @@ height:370px;
   font-size: 60px;
 }
 .gallery .sec-1{
-background: url('23_Lemon_images/images/banner-slide/Banner-1.jpg');
+background: url('Banner-1.jpg');
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
@@ -626,7 +626,7 @@ height:370px;
   font-size: 60px;
 }
 .contact .sec-1{
-background: url('23_Lemon_images/images/banner-slide/Banner-1.jpg');
+background: url('Banner-1.jpg');
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
@@ -706,7 +706,7 @@ height:370px;
   font-size: 60px;
 }
 .error .sec-1{
-background: url('23_Lemon_images/images/banner-slide/Banner-1.jpg');
+background: url('Banner-1.jpg');
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
